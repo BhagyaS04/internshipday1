@@ -1,0 +1,18 @@
+p{
+    color: green
+}
+a{text-decoration: none;}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  th{
+    color:green
+  }
+
+  th, td {
+    font: "helvatica";
+    padding: 10px;
+  }
